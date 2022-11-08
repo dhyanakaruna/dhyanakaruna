@@ -54,6 +54,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZ
 - 📄 Know about my experiences[![Blogger Badge]
   (https://img.shields.io/badge/-Resume-blue/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)]
 (https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://dhyanakaruna.github.io/](https://dhyanakaruna.github.io/)
+
+- 📫 How to reach me **dhyanaks@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing](https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing)
+
 
 ---
 
