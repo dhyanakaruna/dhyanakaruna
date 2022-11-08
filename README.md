@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZ
 
 - 📫 How to reach me **dhyanaks@gmail.com**
 
-- 📄 Know about my experiences [![Blogger Badge](https://img.shields.io/badge/-Resume-ash?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing))
+- 📄 Know about my experiences [![Blogger Badge](https://img.shields.io/badge/-Resume-White?style=flat&logo=Blogger&logoColor=Black)](https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing)
 
 ---
 
