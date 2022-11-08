@@ -39,7 +39,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="30"> from India.
 
 -  🎓 Currently pursuing my bachelors in Electrical and Electronics Engineering.
 
