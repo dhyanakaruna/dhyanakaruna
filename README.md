@@ -41,9 +41,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="30"> from India.
 
--  🎓 Currently pursuing my bachelors in Electrical and Electronics Engineering.
+-  🎓 I am Currently pursuing my bachelors in Electrical and Electronics Engineering.
 
-- :seedling: Exploring Web Development framework.
+- :seedling: Exploring Web Development frameworks.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
