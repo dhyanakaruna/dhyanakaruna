@@ -1,40 +1,27 @@
 
 
-## Hello 👋 and Welcome to my GitHub page!!!
-
-- 🎓 Currently pursuing my bachelors in Electrical and Electronics Engineering
-- 🌱 I’m currently learning Web Application Development
-- 👯 I’m looking for a coding partner for competitive programming
-- 🥅 2023 Goals: To become a Software Engineer
-- 📧 Email: dhyanaks@gmail.com
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
 
-</div>
-https://img.shields.io/badge/LinkedIn-blue
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
+
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dhyana-k/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://youtube.com/channel/UCuExLvp-7Fk253C39T2UZlw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Dhyana_Karuna#gh-dark-mode-only">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/dhaya__02/#gh-dark-mode-only">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
-https://komarev.com/ghpvc/?username=your-github-username
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+<img src="https://komarev.com/ghpvc/?username=dhyanakaruna&style=flat-square&color=blue" alt=""/>
 
 <h1>
   hey there
@@ -48,17 +35,19 @@ https://komarev.com/ghpvc/?username=your-github-username
 
 ---
 
+
+
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  🎓 Currently pursuing my bachelors in Electrical and Electronics Engineering.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Web Development framework.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhyana-k)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -81,37 +70,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://visiontally.netlify.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://visiontally.netlify.app#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCuExLvp-7Fk253C39T2UZlw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCuExLvp-7Fk253C39T2UZlw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Dhyana_Karuna#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Dhyana_Karuna#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dhyana-k#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dhyana-k#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dhaya__02#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dhaya__02#gh-dark-mode-only)
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br />
-<br />
 
 ---
 
@@ -126,10 +85,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanakaruna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-[website]: https://visiontally.netlify.app
-[twitter]: https://twitter.com/Dhyana_Karuna
-[youtube]: https://youtube.com/channel/UCuExLvp-7Fk253C39T2UZlw
-[instagram]: https://instagram.com/dhaya__02
-[linkedin]: https://linkedin.com/in/dhyana-k
 
