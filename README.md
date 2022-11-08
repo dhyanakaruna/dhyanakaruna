@@ -47,9 +47,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZ
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
-- 👨‍💻 All of my projects are available at [🌐(https://img.shields.io/badge/-Resume-white)](https://dhyanakaruna.github.io/](https://dhyanakaruna.github.io/)
+- 👨‍💻 All of my projects are available at [![Website dhyanakaruna.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://dhyanakaruna.github.io/)
 
-- 📫 How to reach me 📧**dhyanaks@gmail.com**
+- 📫 How to reach me **dhyanaks@gmail.com**
 
 - 📄 Know about my experiences [![Blogger Badge](https://img.shields.io/badge/-Resume-white?style=flat&logo=Blogger&logoColor=black)](https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing)
 
