@@ -9,8 +9,9 @@
 - 📧 Email: dhyanaks@gmail.com
 -
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 
-<iframe src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="480" height="480"/></div>
+</div>
 
 ### Connect with me:
 
