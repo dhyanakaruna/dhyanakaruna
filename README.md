@@ -7,10 +7,10 @@
 - 👯 I’m looking for a coding partner for competitive programming
 - 🥅 2023 Goals: To become a Software Engineer
 - 📧 Email: dhyanaks@gmail.com
-- 
+-
 <div id="header" align="center">
 
-<iframe src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<iframe src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="480" height="480"/></div>
 
 ### Connect with me:
 
