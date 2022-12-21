@@ -51,7 +51,7 @@ I am a budding Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ
 
 - 📫 How to reach me **dhyanaks@gmail.com**
 
-- 📄 Know about my experiences  [Click here](https://drive.google.com/file/d/16HfRp_SxVtUzpu2QjbQdqqjXTU7-DgP8/view?usp=sharing)
+- 📄 Know about my experiences  [Click here](https://drive.google.com/file/d/1vSskNPUyb11_VpGGVSquFlA7wqa9Gyi8/view?usp=sharing)
 
 ---
 
