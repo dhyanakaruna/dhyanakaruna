@@ -41,7 +41,7 @@
 
 I am a budding Developer <img src="https://media.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif" width="30"> from India.
 
--  🎓 I am Currently pursuing my bachelors in Electrical and Electronics Engineering.
+-  🎓 I am Currently working as a Full Stack software developer at Securden Technologies.
 
 - :seedling: Exploring Web Development frameworks.
 
