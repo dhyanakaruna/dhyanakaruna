@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx3d2N3N2xqbXUzbGF1eWp4aXI4MnBvb3hieGNjanRkb3FjdndkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
+<h1 align="center">
+  Hi there! I’m Dhyana 👋
+</h1>
 
 <div id="badges" align="center">
   <h3>📬 Connect with me on LinkedIn</h3>
@@ -11,9 +14,6 @@
 </div>
 
 
-<h1 align="center">
-  Hi there! I’m Dhyana 👋
-</h1>
 
 ---
 
@@ -61,7 +61,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 ## 🏆 Featured Projects:
 
 ### 📚 **E-Learning Platform**
-> **Tech Stack:** Node.js | React.js | PostgreSQL | Payment Gateways | RBAC | Caching
+> **Tech Stack:** Node.js | React.js | PostgreSQL | RBAC | Caching
 
 - Built interactive modules: quizzes, coding exercises, cloud service sandboxes
 - Optimized APIs & database queries, improving scalability & reducing load times
