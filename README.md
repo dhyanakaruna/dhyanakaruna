@@ -1,6 +1,8 @@
-<div id="header" align="center">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx3d2N3N2xqbXUzbGF1eWp4aXI4MnBvb3hieGNjanRkb3FjdndkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dhyana-k/">
@@ -12,10 +14,6 @@
 <h1 align="center">
   Hi there! I’m Dhyana 👋
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNwM2ZnaG05NGtzNzB0Z3hxZWV0bTMyZzJqZ3pzMHYwd2V2b3lrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
