@@ -1,5 +1,6 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/></div>
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dhyana-k/">
@@ -7,9 +8,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhyanakaruna&style=flat-square&color=blue" alt=""/>
-</div>
 
 <h1 align="center">
   Hi there! I’m Dhyana 👋
@@ -56,6 +54,9 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 
 ---
 
