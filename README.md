@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5vcWVvaTlhazg1c3B0ZWI4eW40NTVybHh6dG4xMmdjYjk2cW5ocSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/muGYyrI2xiPRXqtUqE/giphy.gif" width="300"/>
-</div>
+ <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/></div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dhyana-k/">
