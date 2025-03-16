@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me:
+## 👩‍💻 About Me:
 
 I am a **Full Stack Software Engineer** passionate about crafting scalable, secure, and high-performance web applications.  
 Currently contributing to **Whizlabs** as a **Product Engineer**, where I take ownership of product modules, enhance system reliability, and deliver seamless learning experiences.  
