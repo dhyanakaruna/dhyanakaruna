@@ -77,8 +77,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 - Integrated **VirusTotal & Jotti** malware scanners
 - Created Windows app to manage sudo access on Unix systems
 - Implemented **MFA (TOTP, Radius Auth)** and enhanced audit logging
-- Used **read-only DB replicas** to ensure performance under load
-
+- Managed user groups for Windows accounts via a web interface to control access for specific computers, including login management 🖥️
 ---
 
 ## 📊 GitHub Stats:
@@ -101,7 +100,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 
 ## 📬 Connect with Me:
 
-<a href="mailto:dhyanaks@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:dhyanakarunanidhi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dhyana-k/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ---
