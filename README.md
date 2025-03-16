@@ -98,13 +98,6 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 
 ---
 
-## 📬 Connect with Me:
-
-<a href="mailto:dhyanakarunanidhi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dhyana-k/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
----
-
 *"Clean code, scalable architecture, and secure systems — that's what I aim for every day!"*
 
 ---
