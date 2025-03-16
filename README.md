@@ -3,8 +3,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmx3d2N3N2xqbXUzbGF1eWp4aXI4MnBvb3hieGNjanRkb3FjdndkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 </div>
 
-
 <div id="badges" align="center">
+  <h3>📬 Connect with me on LinkedIn</h3>
   <a href="https://www.linkedin.com/in/dhyana-k/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
