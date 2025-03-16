@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/dhyana-k/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://youtube.com/channel/UCuExLvp-7Fk253C39T2UZlw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/dhaya__02/#gh-dark-mode-only">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <div align="center">
@@ -37,12 +31,14 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 ---
 
 - 💼 **2+ years** of professional software development experience
-- 🔥 Hands-on with **React.js, Node.js, Django, PostgreSQL, TypeScript, .NET**
-- 🚀 Strong skills in **backend optimization, security, debugging & clean coding**
-- 🌍 Actively contributing to scalable products and secure architectures
-- 📫 Reach me at **dhyanaks@gmail.com**
+- 🔥 Hands-on with **React.js, Node.js, Django, PostgreSQL, Javascript, TypeScript, .NET, etc**
+- 🛠️ Strong skills in **frontend development (React.js, TypeScript, UI/UX collaboration)** and **backend optimization (Node.js, Django, PostgreSQL performance tuning)**
+- 🔐 Proficient in **security implementations (MFA, RBAC, privilege management)** and **debugging complex systems**
+- 🧼 Advocate of **clean, maintainable code** and scalable architectures
+- 🌍 Actively contributing to end-to-end product development, from UI to database
+- 📫 Reach me at **dhyanakarunanidhi@gmail.com**
 - 🌐 Portfolio: [dhyanakaruna.github.io](https://dhyanakaruna.github.io)
-- 📄 [My Resume](https://drive.google.com/file/d/1vSskNPUyb11_VpGGVSquFlA7wqa9Gyi8/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1eUBhZ2uesfx3L_JecpmfGBi-UAmfV8pL/view?usp=sharing)
 
 ---
 
