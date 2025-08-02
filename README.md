@@ -25,7 +25,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 
 ---
 
-- 💼 **2+ years** of professional software development experience
+- 💼 **3 years** of professional software development experience
 - 🔥 Hands-on with **React.js, Node.js, Django, PostgreSQL, Javascript, TypeScript, .NET, etc**
 - 🛠️ Strong skills in **frontend development (React.js, TypeScript, UI/UX collaboration)** and **backend optimization (Node.js, Django, PostgreSQL performance tuning)**
 - 🔐 Proficient in **security implementations (MFA, RBAC, privilege management)** and **debugging complex systems**
