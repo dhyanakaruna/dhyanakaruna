@@ -33,7 +33,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 - 🌍 Actively contributing to end-to-end product development, from UI to database
 - 📫 Reach me at **dhyanakarunanidhi@gmail.com**
 - 🌐 Portfolio: [dhyanakaruna.github.io](https://dhyanakaruna.github.io)
-- 📄 [My Resume](https://drive.google.com/file/d/1eUBhZ2uesfx3L_JecpmfGBi-UAmfV8pL/view?usp=sharing)
+- 📄 [My Resume](https://dhyana-k-resume.tiiny.site/)
 
 ---
 
