@@ -79,25 +79,7 @@ Previously, I worked at **Securden Inc**, focusing on privilege management and s
 - Created Windows app to manage sudo access on Unix systems
 - Implemented **MFA (TOTP, Radius Auth)** and enhanced audit logging
 - Managed user groups for Windows accounts via a web interface to control access for specific computers, including login management 🖥️
----
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img align="center" alt="Dhyana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dhyanakaruna&show_icons=true&theme=radical&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanakaruna&layout=compact&theme=radical&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhyanakaruna&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 *"Clean code, scalable architecture, and secure systems — that's what I aim for every day!"*
 
